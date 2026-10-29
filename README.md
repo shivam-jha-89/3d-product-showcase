@@ -24,12 +24,12 @@
 - ⚡ Optimized performance with React Three Fiber
 
 # Deployed Link
-- https://3d-can-scroll.vercel.app
+- https://3d-product-showcase-nine.vercel.app/
 
 # 📌 Inspiration
 
 - This project was inspired by a Three.js scroll animation tutorial on YouTube that demonstrates moving 3D objects based on user scroll input. Here’s the video for context:
 
-- 👉 https://youtu.be/rbIbvw6c53k
+- 👉 https://3d-product-showcase-nine.vercel.app/
 
 - I used the concepts demonstrated there to build my own soda-can scroll experience.
